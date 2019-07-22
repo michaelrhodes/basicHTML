@@ -36,7 +36,7 @@
     "url": "https://github.com/WebReflection/basicHTML/issues"
   },
   "homepage": "https://github.com/WebReflection/basicHTML#readme",
-  "optionalDependencies": {
+  "peerDependencies": {
     "canvas": "^2.5.0"
   }
 }
